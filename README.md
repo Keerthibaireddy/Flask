@@ -1,6 +1,6 @@
 # E-commerce website using Flask
 
-Welcome to our woven artisance marketplace website! This website has been developed using HTML, CSS, JavaScript, and Flask. Below you will find 
+Welcome to our woven artisans marketplace website! This website has been developed using HTML, CSS, JavaScript, and Flask. Below you will find 
 information on how to use the website, the technologies used, and how to set up the website on your local machine.
 
 How to Use the Website Our ecommerce website allows you to browse and purchase products online. You can create an account 
